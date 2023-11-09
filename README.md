@@ -11,3 +11,4 @@ simply type 'npm i' in your terminal, then run 'node index.js' and answer the pr
 MIT
 
 
+[How to use a Logo generator](https://watch.screencastify.com/v/cazuTgtGcsi1KDwZkNlW)
