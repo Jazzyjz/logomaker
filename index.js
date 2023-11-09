@@ -42,7 +42,7 @@ function writeToFile(fileName, answers) {
 }
 
 // using inquirer to display questions for logomaker
-function promptUser() {
+function init() {
   inquirer
     .prompt([
       // Text prompt
@@ -87,4 +87,4 @@ function promptUser() {
 }
 
 // init prompt questions
-promptUser();
+init();

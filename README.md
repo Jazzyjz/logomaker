@@ -1,2 +1,2 @@
 # logomaker
-This is a SVG logo Maker!
+This is a SVG logo Generator!
